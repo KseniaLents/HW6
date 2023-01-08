@@ -1,0 +1,15 @@
+D:\User\РабочийСтол\Homework_c#\task64\bin\Debug\net7.0\task64.exe
+D:\User\РабочийСтол\Homework_c#\task64\bin\Debug\net7.0\task64.deps.json
+D:\User\РабочийСтол\Homework_c#\task64\bin\Debug\net7.0\task64.runtimeconfig.json
+D:\User\РабочийСтол\Homework_c#\task64\bin\Debug\net7.0\task64.dll
+D:\User\РабочийСтол\Homework_c#\task64\bin\Debug\net7.0\task64.pdb
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.csproj.AssemblyReference.cache
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.AssemblyInfoInputs.cache
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.AssemblyInfo.cs
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.csproj.CoreCompileInputs.cache
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.dll
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\refint\task64.dll
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.pdb
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\task64.genruntimeconfig.cache
+D:\User\РабочийСтол\Homework_c#\task64\obj\Debug\net7.0\ref\task64.dll
